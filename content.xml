@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260523084350D5HVCZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260523084350YZ6RDR</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Sda Descubrimos las abejas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Las abejas: vida, cuidado y naturaleza</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Rocío Guirado Martín</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto educativo está diseñado para el alumnado de Educación Infantil y se desarrolla en el marco de una situación de aprendizaje basada en un enfoque globalizado, activo y participativo.
+
+A través de diferentes actividades y recursos digitales, se pretende acercar al alumnado a los contenidos de forma lúdica y significativa, fomentando la curiosidad, la experimentación y el aprendizaje por descubrimiento.
+
+El proyecto integra el uso de herramientas digitales como Symbaloo, Padlet y eXeLearning, favoreciendo el desarrollo de la competencia digital desde edades tempranas, así como el trabajo colaborativo y el uso seguro de las tecnologías.
+
+Asimismo, se promueve la inclusión, la atención a la diversidad y el respeto por los diferentes ritmos de aprendizaje.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779518436724</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mphydzor-zpaiwlbod</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzos-hv6ldtuv4</odePageId>
+  <odeParentPageId>page-mphydzor-zpaiwlbod</odeParentPageId>
+  <pageName>Presentación y descripción de la tarea</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción de la tarea</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción de la tarea</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción de la tarea</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzos-hv6ldtuv4</odePageId>
+      <odeBlockId>block-1779380878814-jpzwq8xh0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzos-hv6ldtuv4</odePageId>
+          <odeBlockId>block-1779380878814-jpzwq8xh0</odeBlockId>
+          <odeIdeviceId>idevice-1779380878809-kvf0lm5rb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Centro de interés o temática.</strong><br />El centro de interés de las abejas resulta muy motivador para el alumnado de Educación Infantil porque parte de un elemento cercano de la naturaleza que despierta su curiosidad y favorece el aprendizaje globalizado.</p>
+<p><strong>Nivel al que va dirigido.</strong><br />     La siguiente situación de aprendizaje va dirigida al primer nivel de Educación Infantil, es decir a niños y niñas de 3 años.</p>
+<p><strong>Temporalización aproximada</strong>.<br />      Tendrá una duración aproximada de dos meses y se llevará a cabo en el tercer trimestre, aprovechando que estos insectos juntos con otros se encuentran más visibles en nuestros patios. </p>
+<p><strong>Materia o materias implicadas.</strong><br />    Será una situación de aprendizaje  globalizada donde se trabajarán las distintas áreas de Educación Infantil: </p>
+<p>Área I: Crecimiento en armonía<br />Área II: Descubrimiento y exploración del entorno<br />Área III: Comunicación y representación de la realidad</p>
+<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</strong><br />A través del centro de interés de las “abejas” aproximamos al alumnado a un aprendizaje competencial entre ellas:</p>
+<p>Con este proyecto se contribuye al desarrollo de:</p>
+<p>La competencia en comunicación lingüística mediante cuentos, conversaciones y canciones.<br />La competencia STEM a través de la observación de insectos, clasificación y experimentación.<br />La competencia digital usando recursos audiovisuales o actividades interactivas.<br />La competencia personal, social y de aprender a aprender dotando al niño de habilidades sociales que le permitan ganar autonomía y relacionarse con los demás y de herramientas que le permitan enfrentarse a las actividades de manera autónoma.<br />La competencia ciudadana  trabajando de forma cooperativa y respetuosa con el resto de compañeros. <br />La competencia en conciencia y expresión cultural mediante actividades plásticas, musicales y corporales.</p>
+<p><strong> Justificación de los elementos anteriores</strong><br /> A través de este tema, los niños y niñas pueden descubrir cómo viven las abejas, cuál es su función en el medio ambiente y la importancia que tienen para la vida y las plantas, permitiendo la adquisición de valores como el cuidado de la naturaleza, la cooperación y el respeto a los seres vivos.</p>
+<p>Además, este proyecto permite trabajar de forma integrada las diferentes áreas del currículo mediante experiencias manipulativas, sensoriales y lúdicas,.  Las abejas ofrecen múltiples posibilidades para desarrollar el lenguaje oral, la observación, el pensamiento lógico-matemático, la creatividad artística y la educación emocional y ambiental.</p>
+<p>Este centro de interés conecta especialmente con metodologías activas y significativas, ya que parte de los intereses infantiles y promueve el aprendizaje a través de la experimentación, el juego, la exploración y el descubrimiento, además permitirá integrar recursos digitales interactivos que enriquecerán la exploración y el descubrimiento del mundo de las abejas de una forma motivadora y significativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779380878809-kvf0lm5rb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Centro de interés o temática.</strong><br />El centro de interés de las abejas resulta muy motivador para el alumnado de Educación Infantil porque parte de un elemento cercano de la naturaleza que despierta su curiosidad y favorece el aprendizaje globalizado.</p>\n<p><strong>Nivel al que va dirigido.</strong><br />     La siguiente situación de aprendizaje va dirigida al primer nivel de Educación Infantil, es decir a niños y niñas de 3 años.</p>\n<p><strong>Temporalización aproximada</strong>.<br />      Tendrá una duración aproximada de dos meses y se llevará a cabo en el tercer trimestre, aprovechando que estos insectos juntos con otros se encuentran más visibles en nuestros patios. </p>\n<p><strong>Materia o materias implicadas.</strong><br />    Será una situación de aprendizaje  globalizada donde se trabajarán las distintas áreas de Educación Infantil: </p>\n<p>Área I: Crecimiento en armonía<br />Área II: Descubrimiento y exploración del entorno<br />Área III: Comunicación y representación de la realidad</p>\n<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</strong><br />A través del centro de interés de las “abejas” aproximamos al alumnado a un aprendizaje competencial entre ellas:</p>\n<p>Con este proyecto se contribuye al desarrollo de:</p>\n<p>La competencia en comunicación lingüística mediante cuentos, conversaciones y canciones.<br />La competencia STEM a través de la observación de insectos, clasificación y experimentación.<br />La competencia digital usando recursos audiovisuales o actividades interactivas.<br />La competencia personal, social y de aprender a aprender dotando al niño de habilidades sociales que le permitan ganar autonomía y relacionarse con los demás y de herramientas que le permitan enfrentarse a las actividades de manera autónoma.<br />La competencia ciudadana  trabajando de forma cooperativa y respetuosa con el resto de compañeros. <br />La competencia en conciencia y expresión cultural mediante actividades plásticas, musicales y corporales.</p>\n<p><strong> Justificación de los elementos anteriores</strong><br /> A través de este tema, los niños y niñas pueden descubrir cómo viven las abejas, cuál es su función en el medio ambiente y la importancia que tienen para la vida y las plantas, permitiendo la adquisición de valores como el cuidado de la naturaleza, la cooperación y el respeto a los seres vivos.</p>\n<p>Además, este proyecto permite trabajar de forma integrada las diferentes áreas del currículo mediante experiencias manipulativas, sensoriales y lúdicas,.  Las abejas ofrecen múltiples posibilidades para desarrollar el lenguaje oral, la observación, el pensamiento lógico-matemático, la creatividad artística y la educación emocional y ambiental.</p>\n<p>Este centro de interés conecta especialmente con metodologías activas y significativas, ya que parte de los intereses infantiles y promueve el aprendizaje a través de la experimentación, el juego, la exploración y el descubrimiento, además permitirá integrar recursos digitales interactivos que enriquecerán la exploración y el descubrimiento del mundo de las abejas de una forma motivadora y significativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzov-4ns34gr2a</odePageId>
+  <odeParentPageId>page-mphydzor-zpaiwlbod</odeParentPageId>
+  <pageName>Producto final </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzov-4ns34gr2a</odePageId>
+      <odeBlockId>block-1779389864760-gl5vtdwzc</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzov-4ns34gr2a</odePageId>
+          <odeBlockId>block-1779389864760-gl5vtdwzc</odeBlockId>
+          <odeIdeviceId>idevice-1779389864757-pyd2xiy1y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Presentación de mi propuesta </strong><br />Para el desarrollo de mi Situación de Aprendizaje “Las abejas” en Educación Infantil, he seleccionado Canva como herramienta digital para la realización del producto final. A través de esta herramienta, el alumnado podrá participar en la creación de una infografía o presentación visual relacionada con los aprendizajes adquiridos sobre las abejas y su importancia en el medio ambiente.</p>
+<p><strong>Justificación de la herramienta seleccionada</strong><br />Tenemos que tener en cuenta, que al encontrarnos con alumnado de infantil el uso de estas herramientas digitales sería muy guiado y orientado en todo momento por la tutora o el profesorado de refuerzo dentro del aula.  Por ello he elegido la aplicación Canva,  porque considero que es una herramienta muy versátil,  visual y sencilla de utilizar en la etapa de Educación Infantil. Permite crear recursos atractivos adaptados a la edad del alumnado mediante imágenes, iconos, colores y elementos visuales motivadores.</p>
+<p>Además, considero especialmente interesante que el alumnado pueda participar de forma activa en la elaboración del producto final, aportando ideas, seleccionando imágenes o eligiendo elementos visuales, siempre de manera guiada por la docente.</p>
+<p><strong>Contexto del centro y del alumnado</strong><br />La propuesta está dirigida a un grupo de 1º de Educación Infantil (3 años). El centro dispone de recursos digitales como pantalla digital y tablets, lo que facilita porder llevar a cabo la presente propuesta. </p>
+<p><strong>Atención a la diversidad</strong><br />El uso de Canva permite adaptar las actividades a las necesidades y características del alumnado, ofreciendo múltiples posibilidades visuales y manipulativas, por ejemplo dependiendo del nivel de nuestro alumnado algunos podrán iniciarse en la escritura de palabras con el teclado, otros elegirán los colores o imágenes que adjuntar o poner voz a algunas explicaciones. Además a través de esta aplicación podemos llevar a cabo una secuenciación de los pasos a seguir para realizar nuestro mural/infografía de manera visual a través de imágenes, que permita al alumnado conocer los pasos a segur antes de usas la aplicación, favoreciendo el  el trabajo cooperativo,  la inclusión y la participación activa de todos los niños y niñas. </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779389864757-pyd2xiy1y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Presentación de mi propuesta </strong><br />Para el desarrollo de mi Situación de Aprendizaje “Las abejas” en Educación Infantil, he seleccionado Canva como herramienta digital para la realización del producto final. A través de esta herramienta, el alumnado podrá participar en la creación de una infografía o presentación visual relacionada con los aprendizajes adquiridos sobre las abejas y su importancia en el medio ambiente.</p>\n<p><strong>Justificación de la herramienta seleccionada</strong><br />Tenemos que tener en cuenta, que al encontrarnos con alumnado de infantil el uso de estas herramientas digitales sería muy guiado y orientado en todo momento por la tutora o el profesorado de refuerzo dentro del aula.  Por ello he elegido la aplicación Canva,  porque considero que es una herramienta muy versátil,  visual y sencilla de utilizar en la etapa de Educación Infantil. Permite crear recursos atractivos adaptados a la edad del alumnado mediante imágenes, iconos, colores y elementos visuales motivadores.</p>\n<p>Además, considero especialmente interesante que el alumnado pueda participar de forma activa en la elaboración del producto final, aportando ideas, seleccionando imágenes o eligiendo elementos visuales, siempre de manera guiada por la docente.</p>\n<p><strong>Contexto del centro y del alumnado</strong><br />La propuesta está dirigida a un grupo de 1º de Educación Infantil (3 años). El centro dispone de recursos digitales como pantalla digital y tablets, lo que facilita porder llevar a cabo la presente propuesta. </p>\n<p><strong>Atención a la diversidad</strong><br />El uso de Canva permite adaptar las actividades a las necesidades y características del alumnado, ofreciendo múltiples posibilidades visuales y manipulativas, por ejemplo dependiendo del nivel de nuestro alumnado algunos podrán iniciarse en la escritura de palabras con el teclado, otros elegirán los colores o imágenes que adjuntar o poner voz a algunas explicaciones. Además a través de esta aplicación podemos llevar a cabo una secuenciación de los pasos a seguir para realizar nuestro mural/infografía de manera visual a través de imágenes, que permita al alumnado conocer los pasos a segur antes de usas la aplicación, favoreciendo el  el trabajo cooperativo,  la inclusión y la participación activa de todos los niños y niñas. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzow-wt3yph928</odePageId>
+  <odeParentPageId>page-mphydzor-zpaiwlbod</odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzow-wt3yph928</odePageId>
+      <odeBlockId>block-1779399009592-av25904xf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzow-wt3yph928</odePageId>
+          <odeBlockId>block-1779399009592-av25904xf</odeBlockId>
+          <odeIdeviceId>idevice-1779399009591-x30xr9j9m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presenta la curación de contenidos planificada para esta situación de aprendizaje, organizada mediante diferentes recursos y enlaces digitales a través de Symbaloo y Padlet, con el fin de facilitar el acceso a materiales educativos seleccionados y adaptados al alumnado.</p>
+<p><a href="https://padlet.com/rguiradomartin/recursos-para-la-gestion-de-mi-aula-de-infantil-t7ycbuivv667mjsd" title="">https://padlet.com/rguiradomartin/recursos-para-la-gestion-de-mi-aula-de-infantil-t7ycbuivv667mjsd</a></p>
+<p><a href="https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==" title="">https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779399009591-x30xr9j9m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presenta la curación de contenidos planificada para esta situación de aprendizaje, organizada mediante diferentes recursos y enlaces digitales a través de Symbaloo y Padlet, con el fin de facilitar el acceso a materiales educativos seleccionados y adaptados al alumnado.</p>\n<p><a href=\"https://padlet.com/rguiradomartin/recursos-para-la-gestion-de-mi-aula-de-infantil-t7ycbuivv667mjsd\" title=\"\">https://padlet.com/rguiradomartin/recursos-para-la-gestion-de-mi-aula-de-infantil-t7ycbuivv667mjsd</a></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==\" title=\"\">https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzow-h0r5ccwh1</odePageId>
+  <odeParentPageId>page-mphydzor-zpaiwlbod</odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzow-h0r5ccwh1</odePageId>
+      <odeBlockId>block-1779391099130-z20yikzl2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzow-h0r5ccwh1</odePageId>
+          <odeBlockId>block-1779391099130-z20yikzl2</odeBlockId>
+          <odeIdeviceId>idevice-1779391099128-ves4c3die</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/lsxgo7mcjyvg21n" title="Línea temporal ">https://canva.link/lsxgo7mcjyvg21n</a></p>
+<p> En este enlace se puede observar la línea temporal de mi tarea final, se presenta de manera visual para facilitar la comprensión de mi alumnado de infantil. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779391099128-ves4c3die","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/lsxgo7mcjyvg21n\" title=\"Línea temporal \">https://canva.link/lsxgo7mcjyvg21n</a></p>\n<p> En este enlace se puede observar la línea temporal de mi tarea final, se presenta de manera visual para facilitar la comprensión de mi alumnado de infantil. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzox-0sybus5z6</odePageId>
+  <odeParentPageId>page-mphydzor-zpaiwlbod</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzox-0sybus5z6</odePageId>
+      <odeBlockId>block-1779391371816-2yc5wz92m</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzox-0sybus5z6</odePageId>
+          <odeBlockId>block-1779391371816-2yc5wz92m</odeBlockId>
+          <odeIdeviceId>idevice-1779391371813-w5huktvsb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1f1z_uvCOWHoc8b7knr_ruWrkB6UeyjmMHK1mqrEhqwo/edit?usp=sharing" title="">https://docs.google.com/document/d/1f1z_uvCOWHoc8b7knr_ruWrkB6UeyjmMHK1mqrEhqwo/edit?usp=sharing</a></p>
+<p>Si pincháis en el enlace os lleva a un instrumento de evaluación muy utilizado en infantil, en este caso una lista de control y en el siguiente enlace os llevara a una diana de autoevaluación para comprobar el grado de ejecución del criterio que estamos evaluando: </p>
+<p><a href="https://canva.link/xxlszspjm0oubkr" title="">https://canva.link/xxlszspjm0oubkr</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779391371813-w5huktvsb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1f1z_uvCOWHoc8b7knr_ruWrkB6UeyjmMHK1mqrEhqwo/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1f1z_uvCOWHoc8b7knr_ruWrkB6UeyjmMHK1mqrEhqwo/edit?usp=sharing</a></p>\n<p>Si pincháis en el enlace os lleva a un instrumento de evaluación muy utilizado en infantil, en este caso una lista de control y en el siguiente enlace os llevara a una diana de autoevaluación para comprobar el grado de ejecución del criterio que estamos evaluando: </p>\n<p><a href=\"https://canva.link/xxlszspjm0oubkr\" title=\"\">https://canva.link/xxlszspjm0oubkr</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzox-qv35dc4ks</odePageId>
+  <odeParentPageId>page-mphydzor-zpaiwlbod</odeParentPageId>
+  <pageName>Protección de datos personales </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzox-qv35dc4ks</odePageId>
+      <odeBlockId>block-1779399741889-tmalg6jpc</odeBlockId>
+      <blockName>Protección de datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzox-qv35dc4ks</odePageId>
+          <odeBlockId>block-1779399741889-tmalg6jpc</odeBlockId>
+          <odeIdeviceId>idevice-1779399741888-ajzs7k4gh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el objetivo de fomentar un uso seguro y responsable de las tecnologías digitales desde edades tempranas, se presenta la siguiente infografía dirigida al alumnado y a las familias, en la que se recogen algunos de los principales riesgos de Internet y recomendaciones básicas de seguridad digital adaptadas a la infancia.</p>
+<p><a href="https://canva.link/55ubvfqyc5ab7ms" title="">https://canva.link/55ubvfqyc5ab7ms</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779399741888-ajzs7k4gh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el objetivo de fomentar un uso seguro y responsable de las tecnologías digitales desde edades tempranas, se presenta la siguiente infografía dirigida al alumnado y a las familias, en la que se recogen algunos de los principales riesgos de Internet y recomendaciones básicas de seguridad digital adaptadas a la infancia.</p>\n<p><a href=\"https://canva.link/55ubvfqyc5ab7ms\" title=\"\">https://canva.link/55ubvfqyc5ab7ms</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzox-uckotng3i</odePageId>
+  <odeParentPageId>page-mphydzor-zpaiwlbod</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzox-uckotng3i</odePageId>
+      <odeBlockId>block-1779391598492-zztbaxn6w</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzox-uckotng3i</odePageId>
+          <odeBlockId>block-1779391598492-zztbaxn6w</odeBlockId>
+          <odeIdeviceId>idevice-1779391598490-lvivy54oe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente documento encontramos los criterios de evaluación asociados a cada una de las actividades propuestas :</p>
+<p><a href="https://docs.google.com/document/d/1i1VWRRIwPZic1l5-TUwfpsfj6cIVbc6hM63BtpTcaec/edit?usp=sharing" title="">https://docs.google.com/document/d/1i1VWRRIwPZic1l5-TUwfpsfj6cIVbc6hM63BtpTcaec/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779391598490-lvivy54oe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente documento encontramos los criterios de evaluación asociados a cada una de las actividades propuestas :</p>\n<p><a href=\"https://docs.google.com/document/d/1i1VWRRIwPZic1l5-TUwfpsfj6cIVbc6hM63BtpTcaec/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1i1VWRRIwPZic1l5-TUwfpsfj6cIVbc6hM63BtpTcaec/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzoy-0ugqph2li</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA: Las abejas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA: Las abejas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Las abejas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA: Las abejas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzoy-0ugqph2li</odePageId>
+      <odeBlockId>block-1779398720578-uffe6vhzd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzoy-0ugqph2li</odePageId>
+          <odeBlockId>block-1779398720578-uffe6vhzd</odeBlockId>
+          <odeIdeviceId>idevice-1779398720576-erx1otplu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><strong>"Descubrimos las abejas"</strong></h1>
+<p><strong><img src="{{context_path}}/content/resources/abeja.jpg" width="715" height="536" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779398720576-erx1otplu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>\"Descubrimos las abejas\"</strong></h1>\n<p><strong><img src=\"{{context_path}}/content/resources/abeja.jpg\" width=\"715\" height=\"536\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzoz-6gssafsei</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzoz-6gssafsei</odePageId>
+      <odeBlockId>block-1779474559533-mjbluxhbq</odeBlockId>
+      <blockName>Motivación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzoz-6gssafsei</odePageId>
+          <odeBlockId>block-1779474559533-mjbluxhbq</odeBlockId>
+          <odeIdeviceId>idevice-1779474559531-l0jq0w6th</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Comenzamos la situación de aprendizaje con un vídeo sorpresa de una abejita, creado con la aplicación ChatterPix. La abejita se presenta al alumnado y les propone un reto motivador: descubrir juntos el mundo de las abejas.</p>
+<p>A partir de este mensaje inicial, se genera curiosidad, preguntas e interés en el tema, favoreciendo la implicación activa del alumnado desde el inicio del proyecto.</p>
+<p> <img src="{{context_path}}/content/resources/Abejita.png" width="1254" height="1254" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779474559531-l0jq0w6th","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Comenzamos la situación de aprendizaje con un vídeo sorpresa de una abejita, creado con la aplicación ChatterPix. La abejita se presenta al alumnado y les propone un reto motivador: descubrir juntos el mundo de las abejas.</p>\n<p>A partir de este mensaje inicial, se genera curiosidad, preguntas e interés en el tema, favoreciendo la implicación activa del alumnado desde el inicio del proyecto.</p>\n<p> <img src=\"{{context_path}}/content/resources/Abejita.png\" width=\"1254\" height=\"1254\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mphydzoz-6gssafsei</odePageId>
+      <odeBlockId>block-1779476144573-7a2efbh9z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzoz-6gssafsei</odePageId>
+          <odeBlockId>block-1779476144573-7a2efbh9z</odeBlockId>
+          <odeIdeviceId>idevice-1779476144570-unnv9esd1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Adjuntamos la diana que se utiliza para la evaluación de esta actividad motivadora.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Esta actividad será evaluada con la diana </p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779476144570-unnv9esd1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Adjuntamos la diana que se utiliza para la evaluación de esta actividad motivadora.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Esta actividad será evaluada con la diana </p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Esta actividad será evaluada con la diana </p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzp0-zzfwybkpr</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzp0-zzfwybkpr</odePageId>
+      <odeBlockId>block-1779474913754-qbmgf7bze</odeBlockId>
+      <blockName>Activación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzp0-zzfwybkpr</odePageId>
+          <odeBlockId>block-1779474913754-qbmgf7bze</odeBlockId>
+          <odeIdeviceId>idevice-1779474913752-avq9a6q74</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Llevamos a cabo una asamblea inicial en la que el alumnado comparte ideas previas sobre el mundo de las abejas. A través de preguntas abiertas y material visual de apoyo, fomentamos la expresión oral, la escucha activa y el respeto por los turnos de palabra.</p>
+<p>Durante la asamblea exploramos qué sabemos, qué creemos y qué nos gustaría descubrir sobre las abejas. El docente actúa como mediador, recogiendo las aportaciones del grupo en un mural o mapa visual que servirá como punto de partida para el proyecto.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779474913752-avq9a6q74","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Llevamos a cabo una asamblea inicial en la que el alumnado comparte ideas previas sobre el mundo de las abejas. A través de preguntas abiertas y material visual de apoyo, fomentamos la expresión oral, la escucha activa y el respeto por los turnos de palabra.</p>\n<p>Durante la asamblea exploramos qué sabemos, qué creemos y qué nos gustaría descubrir sobre las abejas. El docente actúa como mediador, recogiendo las aportaciones del grupo en un mural o mapa visual que servirá como punto de partida para el proyecto.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mphydzp0-zzfwybkpr</odePageId>
+      <odeBlockId>block-1779475017835-ej1t6coke</odeBlockId>
+      <blockName>Vídeo interactivo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzp0-zzfwybkpr</odePageId>
+          <odeBlockId>block-1779475017835-ej1t6coke</odeBlockId>
+          <odeIdeviceId>idevice-1779475017833-swsxjagbv</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="game-evaluation-ids js-hidden" data-id="idevice-1779475017833-swsxjagbv" data-evaluationb="false" data-evaluationid="c180efe0-e7f7-4d59-a48d-0e3d31f8b653"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=SP50LoRpYJg&t=9s">com/watch?v=SP50LoRpYJg&t=9s</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[],"title":"Las abejas","description":"<p>https://www.youtube.com/watch?v=SP50LoRpYJg&t=9s</p>","coverType":"text","i18n":{"start":"Inicio","results":"Resultados","slide":"Diapositiva (fotograma)","score":"Puntuación","seen":"Visto","total":"Total","seeAll":"debe ver todo el contenido y contestar a las preguntas","noSlides":"El vídeo no tiene contenidos interactivos.","goOn":"Continuar","error":"Error","dataError":"Código no compatible","onlyOne":"Solo un vídeo interactivo por página.","cover":"Portada","fsWarning":"Salga del modo pantalla completa (tecla Esc) para ver la diapositiva","right":"¡Correcto!","wrong":"Incorrecto","sortableListInstructions":"Pinche y arrastre o use las flechas.","up":"Subir","down":"Bajar","rightAnswer":"Respuesta correcta:","notAnswered":"Por favor termine la actividad","check":"Comprobar","newWindow":"Ventana nueva","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgYouScore":"Su puntuación","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Vídeo interactivo","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"scorm":{"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":false,"evaluationID":"c180efe0-e7f7-4d59-a48d-0e3d31f8b653","ideviceID":"idevice-1779475017833-swsxjagbv"}				</script>			</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzp0-hel9deitg</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzp0-hel9deitg</odePageId>
+      <odeBlockId>block-1779475441833-ym1mmy50p</odeBlockId>
+      <blockName>Activación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzp0-hel9deitg</odePageId>
+          <odeBlockId>block-1779475441833-ym1mmy50p</odeBlockId>
+          <odeIdeviceId>idevice-1779475441827-av0v6mfd4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión realizaremos la lectura y escucha de cuentos relacionados con el mundo de las abejas, previamente seleccionados y organizados en la plataforma Symbaloo. A través de estas historias, el alumnado se acercará de forma lúdica al conocimiento de las abejas, fomentando la comprensión oral, la atención y el interés por el tema.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779475441827-av0v6mfd4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión realizaremos la lectura y escucha de cuentos relacionados con el mundo de las abejas, previamente seleccionados y organizados en la plataforma Symbaloo. A través de estas historias, el alumnado se acercará de forma lúdica al conocimiento de las abejas, fomentando la comprensión oral, la atención y el interés por el tema.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mphydzp0-hel9deitg</odePageId>
+      <odeBlockId>block-1779475566788-rvtqdwhvk</odeBlockId>
+      <blockName>Link a symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzp0-hel9deitg</odePageId>
+          <odeBlockId>block-1779475566788-rvtqdwhvk</odeBlockId>
+          <odeIdeviceId>idevice-1779475566786-80chx9nyq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==" title="">https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779475566786-80chx9nyq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==\" title=\"\">https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzp1-l2kw7ud1j</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzp1-l2kw7ud1j</odePageId>
+      <odeBlockId>block-1779475824886-pmu9siyyw</odeBlockId>
+      <blockName>Actividad de explorar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzp1-l2kw7ud1j</odePageId>
+          <odeBlockId>block-1779475824886-pmu9siyyw</odeBlockId>
+          <odeIdeviceId>idevice-1779475824880-jpra0kfot</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Entre todos escribimos una carta a las familias para informar sobre el proyecto que vamos a trabajar y pedirles ayuda.</p>
+<p>Utilizaremos la pizarra digital para realizar la carta entre todos. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779475824880-jpra0kfot","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Entre todos escribimos una carta a las familias para informar sobre el proyecto que vamos a trabajar y pedirles ayuda.</p>\n<p>Utilizaremos la pizarra digital para realizar la carta entre todos. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzp1-qidzdt2df</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Sesión 5</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzp1-qidzdt2df</odePageId>
+      <odeBlockId>block-1779475916907-3qda8tu84</odeBlockId>
+      <blockName>Actividad de exploración</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzp1-qidzdt2df</odePageId>
+          <odeBlockId>block-1779475916907-3qda8tu84</odeBlockId>
+          <odeIdeviceId>idevice-1779475916906-qxw5dz14i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Descubrimos las partes de la abeja y lo aplicamos en una actividad interactiva.</p>
+<p>Para ello, con los niños trabajaremos la aplicación de un Genially.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779475916906-qxw5dz14i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descubrimos las partes de la abeja y lo aplicamos en una actividad interactiva.</p>\n<p>Para ello, con los niños trabajaremos la aplicación de un Genially.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mphydzp2-8mnsdmj77</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Sesión 6</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mphydzp2-8mnsdmj77</odePageId>
+      <odeBlockId>block-1779476545653-p4dy1xyz5</odeBlockId>
+      <blockName>Actividad de estructuración</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mphydzp2-8mnsdmj77</odePageId>
+          <odeBlockId>block-1779476545653-p4dy1xyz5</odeBlockId>
+          <odeIdeviceId>idevice-1779476545650-g72fs6s1d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Clasificación  de imágenes; tipos de abejas: reina, zángano y obrera, para ello nos ayudamos de la aplicación Genially. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779476545650-g72fs6s1d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Clasificación  de imágenes; tipos de abejas: reina, zángano y obrera, para ello nos ayudamos de la aplicación Genially. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779517042778-t538c257u</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Sesión 7</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779517042778-t538c257u</odePageId>
+      <odeBlockId>block-1779517048981-kv7xn26y3</odeBlockId>
+      <blockName>Actividad de estructuración</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779517042778-t538c257u</odePageId>
+          <odeBlockId>block-1779517048981-kv7xn26y3</odeBlockId>
+          <odeIdeviceId>idevice-1779517048979-rmlwxfzyg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Qué comen?</p>
+<p>Vídeo informativo y ficha donde relacionen lo aprendido.</p>
+<p><a href="https://www.youtube.com/watch?v=3CTuqVtCVkk" title="">¿QUÉ COMEN LAS ABEJAS?</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779517048979-rmlwxfzyg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Qué comen?</p>\n<p>Vídeo informativo y ficha donde relacionen lo aprendido.</p>\n<p><a href=\"https://www.youtube.com/watch?v=3CTuqVtCVkk\" title=\"\">¿QUÉ COMEN LAS ABEJAS?</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779517211257-x5jzjk4sd</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Sesión 8</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779517211257-x5jzjk4sd</odePageId>
+      <odeBlockId>block-1779517248603-o5vuea6p0</odeBlockId>
+      <blockName>Actividad de estructuración</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779517211257-x5jzjk4sd</odePageId>
+          <odeBlockId>block-1779517248603-o5vuea6p0</odeBlockId>
+          <odeIdeviceId>idevice-1779517248601-k4nvcsbfe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Visita del apicultor</p>
+<p>Visita del apicultor al aula: previamente preparamos las preguntas que vamos a realizarle, observación de materiales, conversación y preguntas sobre el cuidado de las abejas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779517248601-k4nvcsbfe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Visita del apicultor</p>\n<p>Visita del apicultor al aula: previamente preparamos las preguntas que vamos a realizarle, observación de materiales, conversación y preguntas sobre el cuidado de las abejas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779517435469-nzpu24qqu</odePageId>
+  <odeParentPageId>page-mphydzoy-0ugqph2li</odeParentPageId>
+  <pageName>Tarea final</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779517435469-nzpu24qqu</odePageId>
+      <odeBlockId>block-1779517517850-81l20crvw</odeBlockId>
+      <blockName>Tarea final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779517435469-nzpu24qqu</odePageId>
+          <odeBlockId>block-1779517517850-81l20crvw</odeBlockId>
+          <odeIdeviceId>idevice-1779517517848-2sbzcl29j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Infografía/Mural </p>
+<p>Llevamos a cabo nuestra tarea final, un mural/infografía donde recopilamos todo lo que hemos aprendido del mundo de las abejas</p>
+<p><img src="{{context_path}}/content/resources/TAREA FINAL.png" width="1053" height="579" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779517517848-2sbzcl29j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Infografía/Mural </p>\n<p>Llevamos a cabo nuestra tarea final, un mural/infografía donde recopilamos todo lo que hemos aprendido del mundo de las abejas</p>\n<p><img src=\"{{context_path}}/content/resources/TAREA FINAL.png\" width=\"1053\" height=\"579\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779517724561-7rr3qwdkb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Creditos</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779517724561-7rr3qwdkb</odePageId>
+      <odeBlockId>block-1779518258883-78kouuxvo</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779517724561-7rr3qwdkb</odePageId>
+          <odeBlockId>block-1779518258883-78kouuxvo</odeBlockId>
+          <odeIdeviceId>idevice-1779518258882-ke6jwdwwh</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Sda Descubrimos las abejas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto educativo está diseñado para el alumnado de Educación Infantil y se desarrolla en el marco de una situación de aprendizaje basada en un enfoque globalizado, activo y participativo.
+
+A través de diferentes actividades y recursos digitales, se pretende acercar al alumnado a los contenidos de forma lúdica y significativa, fomentando la curiosidad, la experimentación y el aprendizaje por descubrimiento.
+
+El proyecto integra el uso de herramientas digitales como Symbaloo, Padlet y eXeLearning, favoreciendo el desarrollo de la competencia digital desde edades tempranas, así como el trabajo colaborativo y el uso seguro de las tecnologías.
+
+Asimismo, se promueve la inclusión, la atención a la diversidad y el respeto por los diferentes ritmos de aprendizaje.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Rocío Guirado Martín</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
